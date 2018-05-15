@@ -23,7 +23,7 @@ isValidArab(100) //Returns true
 isValidArab('X') //Returns false
 </code></pre>
 
-###isValidRoman
+### isValidRoman
 
 Checks if given value can be converted to arab. Only capitalized strings with a valid roman format are valid values.
 
@@ -34,7 +34,7 @@ isValidRoman('ix') //Returns false
 isValidArab('XI') //Returns true
 </code></pre>
 
-###romanToArab
+### romanToArab
 
 Converts valid roman number to arab.
 
@@ -47,7 +47,7 @@ romanToArab(0) //Returns NaN
 romanToArab('') //Returns NaN
 </code></pre>
 
-###arabToRoman
+### arabToRoman
 
 Converts valid roman number to arab.
 
