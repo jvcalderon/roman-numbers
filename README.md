@@ -1,6 +1,10 @@
 Roman Numbers
 ==============
 
+[![Build Status](https://travis-ci.org/jvcalderon/roman-numbers.svg?branch=master)](https://travis-ci.org/jvcalderon/roman-numbers)
+[![Coverage Status](https://coveralls.io/repos/github/jvcalderon/roman-numbers/badge.svg?branch=master)](https://coveralls.io/github/jvcalderon/roman-numbers?branch=master)
+[![Known Vulnerabilities](https://snyk.io/test/github/jvcalderon/roman-numbers/badge.svg?targetFile=package.json)](https://snyk.io/test/github/jvcalderon/roman-numbers?targetFile=package.json)
+
 A simple package to convert roman to arabic numbers (and vice versa). It also can check valid roman format.
 
 ## Installation
