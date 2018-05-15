@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/roman-numbers.png?downloads=true&stars=true)](https://nodei.co/npm/roman-numbers/)
+
 Roman Numbers
 ==============
 
